@@ -31,7 +31,5 @@ post {
     Success {
         echo 'Success'
     }
-    alway {
-        echo 'always'
-    }
+    
 }
